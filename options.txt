@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\mcarlosa\Desktop\T-Mobile 09-18\Charlie  T-Mobile 09-18
--IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
--ec:\users\mcarlosa\desktop\t-mobile 09-18\charlie  t-mobile 09-18\\logfile.log
-c:\users\mcarlosa\desktop\t-mobile 09-18\charlie  t-mobile 09-18\\combined_Charlie t-mobile.c
-c:\users\mcarlosa\desktop\t-mobile 09-18\charlie  t-mobile 09-18\\pre_cci.c
